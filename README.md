@@ -5,7 +5,7 @@ A responsive Food Delivery Website built using HTML, CSS, and JavaScript. Users 
 # 🌐 Live Demo
 
 🔗 **Food Delivery Website:**
-https://github.com/ashishcodes04/Food-Delivery-Website.git
+https://github.com/ashishcodes04/Food-Delivery-Website
 
 # 🚀 Features
 
