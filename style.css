@@ -92,7 +92,7 @@ header ul li a:hover::after{
     transform: translateY(-50%);
     width: 350px;
     height: 350px;
-    background: url("../img1/veggies.png") no-repeat center/contain;
+    background: url("img1/veggies.png") no-repeat center/contain;
     animation: floatLeft 4s ease-in-out infinite;
 }
 
@@ -104,7 +104,7 @@ header ul li a:hover::after{
     transform: translateY(-50%);
     width: 350px;
     height: 350px;
-    background: url("../img1/sushi.png") no-repeat center/contain;
+    background: url("img1/sushi.png") no-repeat center/contain;
     animation: floatRight 4s ease-in-out infinite;
 }
 
